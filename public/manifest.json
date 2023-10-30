@@ -1,0 +1,51 @@
+{
+    "background_color": "#ffffff",
+    "description": "Cơ sở dữ liệu liên minh hội nông dân Quảng Nam",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "hoinongdanquangnam",
+    "orientation": "any",
+    "scope": "hoinongdanquangnam",
+    "short_name": "hoinongdanquangnam",
+    "start_url": "#",
+    "theme_color": "#ffffff",
+    "categories": [],
+    "screenshots": [{
+            "src": "/anhhethong/1.png",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/anhhethong/2.png",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/anhhethong/3.png",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/anhhethong/4.png",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/anhhethong/5.png",
+            "type": "image/x-icon"
+        }
+    ],
+    "icons": [{
+            "src": "/favicons/android-chrome-512x512.png",
+            "type": "image/x-icon",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/favicons/favicon-16x16.png",
+            "type": "image/x-icon",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/favicons/favicon-32x32.png",
+            "type": "image/x-icon",
+            "sizes": "32x32"
+        }
+    ],
+    "shortcuts": []
+}
