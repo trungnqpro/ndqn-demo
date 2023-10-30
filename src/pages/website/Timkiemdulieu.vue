@@ -26,7 +26,7 @@
                                                         <div class="row">
                                                             <div class="col-md-4 col-md-offset-1  mt-150">
 
-                                                                <h1 class="text-to">CSDL HND TỈNH QUẢNG NAM</h1>
+                                                                <h1 class="text-to">HỘI NÔNG DÂN TỈNH QUẢNG NAM</h1>
                                                                 <p class="text-trang">Điểm đầu mối công bố dữ liệu mở, cung
                                                                     cấp thông tin về chia sẻ dữ liệu của cơ quan nhà nước
                                                                 </p>

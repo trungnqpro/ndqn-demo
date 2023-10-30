@@ -262,7 +262,7 @@
 
                             </div>
                             <div class="sm:col-span-6 col-span-12  bg-white px-4 py-5 sm:p-4">
-                                <label class="block text-sm font-medium text-gray-700">Năm tham gia thành viên Liên minh
+                                <label class="block text-sm font-medium text-gray-700">Năm tham gia thành viên Hội Nông Dân
                                     HND tỉnh</label>
                                 <input v-model="dataForm.namThamGiaThanhVienLMHTX" name="namThamGiaThanhVienLMHTX"
                                     type="text" required

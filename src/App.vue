@@ -12,7 +12,7 @@
             <div class="text-gray-100 text-xl">
                 <div class="p-2.5 mt-1 flex items-center">
                     <!-- <i class="bi bi-app-indicator px-2 py-1 rounded-md bg-blue-600"></i> -->
-                    <h1 class="font-bold text-white text-[24px] ml-3">LIÊN MINH HND</h1>
+                    <h1 class="font-bold text-white text-[24px] ml-3">Hội Nông Dân</h1>
                     <i class="bi bi-justify text-black cursor-pointer sm:ml-28 lg:hidden" @click="openSidebar()"></i>
                 </div>
 

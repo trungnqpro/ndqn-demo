@@ -896,7 +896,7 @@
                     </div>
                 </el-tab-pane>
 
-                <el-tab-pane label="Lao động liên minh hợp tác xã">
+                <el-tab-pane label="Lao động hội nông dân">
 
                     <div
                         class="sm:w-12/12 w-12/12 sm:h-11/12 h-4/5 sm:p-5 relative mx-auto my-auto rounded-xl shadow-lg  bg-white">
@@ -998,7 +998,7 @@
 
                 </el-tab-pane>
 
-                <el-tab-pane label="Thành viên liên minh hợp tác xã">
+                <el-tab-pane label="Thành viên hội nông dân">
                     <div
                         class="sm:w-12/12 w-12/12 sm:h-11/12 h-4/5 sm:p-5 relative mx-auto my-auto rounded-xl shadow-lg  bg-white">
                         <div id="hiddenScroll" class="sm:px-4 py-6 w-full grid grid-cols-12 overflow-y-auto "
@@ -2314,7 +2314,7 @@ export default {
 
             }
 
-            if (tab.label == "Lao động liên minh hợp tác xã") {
+            if (tab.label == "Lao động hội nông dân") {
                 axios.get("/thanh-vien-htx?DonViId=" + self.donVi + "&KyBienDongId=" + self.kyID + "&table=laodonglmhtxes")
                     .then((res) => {
                         self.LaoDongLMHTX = res.data;
@@ -2329,7 +2329,7 @@ export default {
                     });
             }
 
-            if (tab.label == "Thành viên liên minh hợp tác xã") {
+            if (tab.label == "Thành viên hội nông dân") {
                 axios.get("/thanh-vien-htx?DonViId=" + self.donVi + "&KyBienDongId=" + self.kyID + "&table=thanhvienlmhtxes")
                     .then((res) => {
                         self.ThanhVienLMHTX = res.data;

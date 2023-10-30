@@ -2,7 +2,7 @@
     <div>
         <div class="text-gray-100 text-xl">
             <div class="p-2.5 mt-1 flex items-center">
-                <h1 class="font-bold text-gray-600 text-[24px]  ">Liên minh hội nông dân</h1>
+                <h1 class="font-bold text-gray-600 text-[24px]  ">Hội Nông Dân</h1>
                 <i class="bi bi-x cursor-pointer ml-28 lg:hidden"></i>
             </div>
         </div>

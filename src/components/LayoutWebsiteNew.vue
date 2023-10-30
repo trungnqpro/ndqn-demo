@@ -22,7 +22,7 @@
                     <li class="nav-item dropdown dmenu">
 
                         <a href="/" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            CSDL Hợp Tác Xã
+                            CSDL Hội Nông Dân
                         </a>
                        
                     </li>

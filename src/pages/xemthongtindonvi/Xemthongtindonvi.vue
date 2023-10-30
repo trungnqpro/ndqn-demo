@@ -204,7 +204,7 @@
 
                         </div>
                         <div class="sm:col-span-6 col-span-12  bg-white px-4 py-5 sm:p-4">
-                            <label class="block text-sm font-medium text-gray-700">Năm tham gia thành viên Liên minh HND tỉnh</label>
+                            <label class="block text-sm font-medium text-gray-700">Năm tham gia thành viên HND tỉnh</label>
                             <input v-model="dataFormDonVi.namThamGiaThanhVienLMHTX" name="namThamGiaThanhVienLMHTX" type="text" required class="block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 placeholder-gray-400 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
 
                         </div>

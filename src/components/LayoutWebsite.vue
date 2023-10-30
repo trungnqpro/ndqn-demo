@@ -56,13 +56,13 @@
                 TRANG THÔNG TIN ĐIỆN TỬ HỘI NÔNG DÂN TỈNH QUẢNG NAM
             </h1>
             <p>
-                Cơ quan chủ quản: Liên minh Hội nông dân tỉnh Quảng Nam
+                Cơ quan chủ quản: Hội nông dân tỉnh Quảng Nam
                 <br />
                 Email:  - Điện thoại/Fax:
                 <br />
                 Địa chỉ: Tổ 7 - Phường Túc Duyên - TP Quảng Nam- Tỉnh Quảng Nam
                 <br />
-                Ghi rõ nguồn "Liên minh Hội nông dân tỉnh Quảng Nam" khi phát hành lại thông
+                Ghi rõ nguồn "Hội nông dân tỉnh Quảng Nam" khi phát hành lại thông
                 tin từ website này
             </p>
         </footer>

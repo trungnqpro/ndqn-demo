@@ -49,7 +49,7 @@
                                     class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500">
                                     <option value="0">-- Quyền: --</option>
                                     <option value="3">Huyện </option>
-                                    <option value="4">Liên minh hội nông dân </option>
+                                    <option value="4">Hội Nông Dân </option>
                                     <option value="5">Sở</option>
                                 </select>
 

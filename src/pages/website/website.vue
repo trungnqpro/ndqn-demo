@@ -89,7 +89,7 @@ text.highcharts-credits {
                                                     <div class="row">
                                                         <div class="col-md-4 col-md-offset-1  mt-150">
 
-                                                            <h1 class="text-to">CSDL HND TỈNH QUẢNG NAM</h1>
+                                                            <h1 class="text-to">HỘI NÔNG DÂN TỈNH QUẢNG NAM</h1>
                                                             <!-- <p class="text-trang">Điểm đầu mối công bố dữ liệu mở, cung cấp thông tin về chia sẻ dữ liệu của cơ quan nhà nước</p> -->
                                                             <a href="#" class="btn btn-success text-uppercase">Dữ liệu mở</a>
                                                         </div>
@@ -434,7 +434,7 @@ text.highcharts-credits {
                                                             <div class="col-md-4">
                                                                 <div class="box-new1 text-center">
                                                                     <a href="#" class="flex items-center"><img class="w-12 mr-4" src="images/thainguyen.png" alt>
-                                                                        Liên minh hội nông dân Quảng Nam
+                                                                        Hội Nông Dân Quảng Nam
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -448,7 +448,7 @@ text.highcharts-credits {
                                                             <div class="col-md-4">
                                                                 <div class="box-new1 text-center">
                                                                     <a href="https://vca.org.vn/" class="flex items-center"><img class="w-12 mr-4" src="images/logolmhtxvn.png" alt>
-                                                                        Liên minh hội nông dân Việt Nam</a>
+                                                                        Hội Nông Dân Việt Nam</a>
                                                                 </div>
                                                             </div>
                                                         </div>

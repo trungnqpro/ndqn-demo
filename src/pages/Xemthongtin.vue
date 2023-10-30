@@ -576,7 +576,7 @@
                                                 </td>
                                             </tr>
                                             <tr class="divide-x divide-gray-200">
-                                                <td class="whitespace-nowrap py-4 pl-4 pr-4 text-sm font-medium text-gray-900 sm:pl-0">Vay từ quỹ hỗ trợ của <br> liên minh HND Tỉnh</td>
+                                                <td class="whitespace-nowrap py-4 pl-4 pr-4 text-sm font-medium text-gray-900 sm:pl-0">Vay từ quỹ hỗ trợ của <br> HND Tỉnh</td>
                                                 <td class="whitespace-nowrap p-4 text-sm text-gray-500">12</td>
                                                 <td class="whitespace-nowrap p-4 text-sm text-gray-500">
                                                     <input placeholder="Triệu đồng (VD:100)"   type="text"  v-model="dataFormTaiSan.vonVayTuQuyHoTro" required class="block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 placeholder-gray-400 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
@@ -666,7 +666,7 @@
 
                         </div>
                         <div class=" col-span-12  bg-white px-4 py-5 sm:p-4">
-                            <label class="block text-sm font-medium text-gray-700">12: Vay từ quỹ hỗ trỡ của Liên minh HND tỉnh</label>
+                            <label class="block text-sm font-medium text-gray-700">12: Vay từ quỹ hỗ trỡ của HND tỉnh</label>
                             <input placeholder="Triệu đồng (VD:100)" type="text" v-model="dataFormTaiSan.vonVayTuQuyHoTro" required class="block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 placeholder-gray-400 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
 
                         </div>
@@ -2547,7 +2547,7 @@
 
                                         </div>
                                         <div class="col-span-12  bg-white px-4 py-5 sm:p-4">
-                                            <label class="block text-sm font-medium text-gray-700">Đối với liên minh htx tỉnh Quảng Nam</label>
+                                            <label class="block text-sm font-medium text-gray-700">Đối với Hội Nông Dân tỉnh Quảng Nam</label>
                                             <textarea v-model="dataFormThongTinBoSungDonVi.deXuatDoiVoiLMHTX" required class="block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 placeholder-gray-400 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm" name="" id="" cols="20" rows="5"></textarea>
                                         </div>
 
